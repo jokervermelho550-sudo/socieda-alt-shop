@@ -1,0 +1,7 @@
+node_modules
+.env.local
+.vercel
+backend/node_modules
+backend.log
+backend/server_err.log
+backend/server_out.log
